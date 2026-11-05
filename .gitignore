@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+students.csv
+"python main.py"
+python\ main.py
